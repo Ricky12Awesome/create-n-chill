@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0453091a10f0e0cb4c7eb07be0b6cebe78397b8c9c05dd2ad7b581c3ad7e173b"
+hash = "d6a5e913d66773b465da82c8c5fef2212e61bb1ce9dc68328979568357872e6a"
 
 [versions]
 forge = "47.2.21"
@@ -14,3 +14,4 @@ minecraft = "1.20.1"
 
 [options]
 acceptable-game-versions = ["1.20.1"]
+override-side-default = true
