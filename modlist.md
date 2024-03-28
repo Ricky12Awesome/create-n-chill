@@ -1,0 +1,142 @@
+- [3D Skin Layers](https://modrinth.com/mod/zV5r3pPn) - Render the player skin layer in 3d!
+- [[EMF] Entity Model Features](https://modrinth.com/mod/4I1XuqiY) - EMF is an, OptiFine format, Custom Entity Model replacement mod available for Fabric and Forge.
+- [[ETF] Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) - Emissive, Random & Custom texture support for entities in resourcepacks just like Optifine but for Fabric
+- [Advancement Plaques](https://modrinth.com/mod/9NM0dXub) - Replace those boring advancement popups with something flashier.
+- [Alex's Caves](https://modrinth.com/mod/U6GY0xp0) - Explore five new rare cave biomes hidden under the surface of the Overworld...
+- [Alex's Mobs](https://modrinth.com/mod/2cMuAZAp) - 85+ New mobs with stylistic quality above the default game.
+- [AmbientSounds](https://modrinth.com/mod/fM515JnW) - #listentonature
+- [amendments](https://modrinth.com/mod/6iTJugQR) - Many changes to vanilla blocks
+- [AppleSkin](https://modrinth.com/mod/EsAfCjCV) - Food/hunger-related HUD improvements
+- [Architectury API](https://modrinth.com/mod/lhGA9TYQ) - An intermediary api aimed to ease developing multiplatform mods.
+- [Artifacts](https://modrinth.com/mod/P0Mu4wcQ) - Adds various treasure items that can be found through exploration
+- [Athena](https://modrinth.com/mod/b1ZV3DIJ) - A crossplatform (Forge/Fabric) solution to connected block textures for 1.19.4+
+- [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) - Optimization mod that focuses on things other than rendering
+- [Baubley Heart Canisters](https://modrinth.com/mod/fPdy2fCM) - This mod adds back the old Tinkers' Construct heart canisters in a new and reimagined way to become Baubles/Curios!
+- [Better Animations Collection](https://modrinth.com/mod/OoOVj3J3) - Changing the in-game models to allow for better animations and subtle effects.
+- [Better Archeology](https://modrinth.com/mod/zCh7omyG) - Discover artifacts & fossils by encountering new structures that'll enhance your adventure and exploration!
+- [Better Third Person](https://modrinth.com/mod/G1s2WpNo) - Improves third person camera view.
+- [Block Runner](https://modrinth.com/mod/1VSGxqkt) - Encourages path building by making you run faster on certain blocks such as path blocks.
+- [Botarium](https://modrinth.com/mod/2u6LRnMa) - A crossplatform API for devs that makes transfer and storage of items, fluids and energy easier, as well as some other helpful things
+- [Caelus API](https://modrinth.com/mod/40FYwb4z) - A coremod and API to provide developers access to elytra flight mechanics through an entity attribute.
+- [Carry On](https://modrinth.com/mod/joEfVgkn) - Carry On allows you to pick up Tile Entities and Mobs and carry them around!
+- [Charm of Undying](https://modrinth.com/mod/b5GyyYkp) - Adds accessory support for the Totem of Undying so you can place it in a slot and don't have to be holding it. Formerly known as Curio of Undying and Trinket of Undying.
+- [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/fgmhI8kH) - Enhances and creates new villages and pillager outposts, that perfectly fit into your Minecraft world.
+- [Citadel](https://modrinth.com/mod/jJfV67b1) - A Lightweight Library
+- [Cloth Config API](https://modrinth.com/mod/9s6osm5g) - Configuration Library for Minecraft Mods
+- [Clumps](https://modrinth.com/mod/Wnxd13zP) - Clumps XP orbs together to reduce lag
+- [Continuity](https://modrinth.com/mod/1IjD5062) - A Fabric mod that allows for efficient connected textures
+- [Controlling](https://modrinth.com/mod/xv94TkTM) - Adds a search bar to the Key-Bindings menu
+- [Create](https://modrinth.com/mod/LNytGWDc) - Aesthetic Technology that empowers the Player
+- [Create Crafts & Additions](https://modrinth.com/mod/kU1G12Nn) - Create Crafts & Additions extends Create and acts as a bridge between electricity and kinetic energy
+- [Create: Connected](https://modrinth.com/mod/Vg5TIO6d) - QoL blocks that you wish existed in Create - Highly configurable, disable what you don't need
+- [Create: New Age](https://modrinth.com/mod/FTeXqI9v) - Create: New Age is an addon for the Create mod that adds integration with electricity.
+- [Create: Oppenheimered](https://modrinth.com/mod/7qOxePw2) - Adds some crafting compatibility between Alex's Caves and Create
+- [Create: Steam 'n' Rails](https://modrinth.com/mod/ZzjhlDgM) - Adding depth to Create's rail network & steam system
+- [Create: Structures](https://modrinth.com/mod/IAnP4np7) - Add-on for Create that implements naturally generating structures containing early-game Create contraptions and items.
+- [CreativeCore](https://modrinth.com/mod/OsZiaDHq) - A core mod
+- [Cristel Lib](https://modrinth.com/mod/cl223EMc) - A Library mod for easy structure config and runtime datapacks.
+- [CTOV - Create: Structures](https://modrinth.com/mod/l9fldtN4) - Compatibility datapack between ChoiceTheorem's overhauled village and Create:Structures mod
+- [CTOV - Farmer Delight Compat](https://modrinth.com/mod/CdRC4fyI) - Compatibility add-on for Farmer's delight mod and CTOV 
+- [Curios API](https://modrinth.com/mod/vvuO3ImH) - A flexible and expandable accessory/equipment API for users and developers.
+- [Dungeons and Taverns](https://modrinth.com/mod/tpehi7ww) - A Structure Datapack adding dungeons, taverns and other structures to find while you explore the world.
+- [Durability Tooltip](https://modrinth.com/mod/smUP7V3r) - Durability Tooltip shows you the durability of an item!
+- [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers) - Never get annoyed by villagers again!
+- [Elytra Slot](https://modrinth.com/mod/mSQF1NpT) - Adds accessory support to the elytra so you can fly and wear chest armor at the same time. Formerly known as Curious Elytra and Elytra Trinket.
+- [Embeddium](https://modrinth.com/mod/sk9rgfiA) - A performance-enhancing client mod (based on Sodium) prioritizing reliability & mod compatibility
+- [Embeddium (Rubidium) Extra](https://modrinth.com/mod/oY2B1pjg) - Port of Sodium Extra to work with Embeddium/Rubidium on (Neo)Forge
+- [End Remastered](https://modrinth.com/mod/ZJTGwAND) - Make your journey to the End more Challenging and Engaging with End Remastered!
+- [End's Delight](https://modrinth.com/mod/yHN0njMr) - End's Delight is an addon mod for Farmer's Delight based around adding culinary content to the end!
+- [Equipment Compare](https://modrinth.com/mod/CYSUVOdj) - Makes it easier to compare equipment by showing a tooltip for what you're already wearing.
+- [Explorify](https://modrinth.com/mod/HSfsxuTo) - An integrated vanilla-friendly collection of new dungeons and structures
+- [Farmer's Delight](https://modrinth.com/mod/R2OftAxM) - A cozy expansion to farming and cooking!
+- [Fast Paintings](https://modrinth.com/mod/z3TzcquW) - Fixes painting rendering, increasing their performance and allowing them to have custom models
+- [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) - A performance upgrade for the furnace.
+- [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite) - A performance upgrade for the JSON recipe system.
+- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) - A performance upgrade for the crafting table.
+- [FerriteCore](https://modrinth.com/mod/uXXizFIs) - Memory usage optimizations
+- [First-person Model](https://modrinth.com/mod/H5XMjpHi) - Enables the third-person Model in first-person
+- [Forgified Fabric API](https://modrinth.com/mod/Aqlf1Shp) - Fabric API implemented on top of MinecraftForge
+- [FTB Chunks (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge) - A mod that allows you to claim chunks to protect your blocks and view minimap / large map
+- [FTB Library (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) - Common code for all GUI stuff in FTB Mods
+- [FTB Quests (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) - Questing Mod by FTB
+- [FTB Teams (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge) - Library for mods that can utilize team progression
+- [FTB Ultimine (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) - Harvest multiple blocks at once
+- [Fusion (Connected Textures)](https://modrinth.com/mod/p19vrgc2) - Fusion allows resource packs to use additional texture and model types such as connected textures!
+- [Handcrafted](https://modrinth.com/mod/pJmCFF0p) - Make your house a home!
+- [Highlight](https://modrinth.com/mod/Vz96hXMh) - Highlight changes the visualization of specific blocks in the game to have more aligned selections to their models.
+- [Iceberg](https://modrinth.com/mod/5faXoLqX) - A modding library that contains new events, helpers, and utilities to make modder's lives easier.
+- [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) - Speed up immediate mode rendering in Minecraft
+- [Iris & Oculus Flywheel Compat](https://modrinth.com/mod/ndHYMY2K) - Enable Flywheel's optimizations when using shaderpacks.
+- [Jade Addons (Forge)](https://modrinth.com/mod/xuDOzCLy) - Jade 🔍's additional mod supports for Forge
+- [Jade 🔍](https://modrinth.com/mod/nvQzSEkH) - Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+)
+- [Just Enough Advancements (JEA)](https://modrinth.com/mod/5JY3QNIB) - An addon for JEI which let you search for advancements. This is pronounced like "yeah".
+- [Just Enough Archaeology](https://modrinth.com/mod/K0LQpdmm) - JEI Archaeology addon
+- [Just Enough Breeding (JEBr)](https://modrinth.com/mod/9Pk89J3g) - JEI plugin that displays breeding information
+- [Just Enough Effect Descriptions (JEED)](https://modrinth.com/mod/EO27GKs1) - JEI plugin that displays information on all status effects
+- [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) - JEI - View Items and Recipes
+- [Just Enough Professions (JEP)](https://modrinth.com/mod/kB56GtWA) - A JEI addon that adds profession workstations
+- [Just Enough Resources (JER)](https://modrinth.com/mod/uEfK2CXF) - JEI integration that adds info on mobs, world gen, villagers and many more!
+- [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz) - Adds a Kotlin language loader and provides some optional utilities.
+- [Ksyxis](https://modrinth.com/mod/2ecVyZ49) - Speed up the loading of your world.
+- [KubeJS](https://modrinth.com/mod/umyGl7zF) - Edit recipes, add new custom items, script world events, all in JavaScript!
+- [KubeJS Create](https://modrinth.com/mod/T38eAZQC) - KubeJS Create integration
+- [Lazurite](https://modrinth.com/mod/TkC4Gtkt) - A Forge port of Indium, providing FRAPI support for Embeddium
+- [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV) - Quick leaf decay from cutting down trees. Built for fast performance and mod compat!
+- [Legendary Tooltips](https://modrinth.com/mod/atHH8NyV) - Give your rare items a fancier tooltip! Also adds additional tooltip configuration options.
+- [LibX](https://modrinth.com/mod/qEH6GYul) - LibX is a library mod with a lot of code that is shared between mods.
+- [Lootr](https://modrinth.com/mod/EltpO5cN) - A mod that makes it so nobody misses out on Loot! All loot chests are instanced per player and visually unique.
+- [Medieval Buildings](https://modrinth.com/mod/sc9lpPiU) - Add exciting medieval buildings with hidden enemies and treasures to the world!
+- [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD) - A mod that fixes random memory leaks for both the client and server
+- [MidnightLib](https://modrinth.com/mod/codAaoxh) - Common library with a built-in configuration system
+- [Moderately Enough Effect Descriptions (MEED) - A JEED Addon](https://modrinth.com/mod/1dxbxzCg) - A JEED addon that displays information on many modded status effects!
+- [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) - dynamic data pack and registration, villager activities, custom map marker and a lot more
+- [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) - Enhances inventory management by adding various functions to the mouse buttons. 
+- [Nature's Compass](https://modrinth.com/mod/fPetb5Kh) - Allows you to locate biomes anywhere in the world.
+- [No Telemetry](https://modrinth.com/mod/hg77g4Pw) - Disable the telemetry introduced in 21w38a
+- [Not Enough Animations](https://modrinth.com/mod/MPCX6s5C) - Bringing first-person animations to the third-person
+- [Not Enough Crashes](https://modrinth.com/mod/yM94ont6) - When crashing, you can go back to the title screen and keep playing, without needing to restart, alongside other things to make crashes more pleasant.
+- [Oculus](https://modrinth.com/mod/GchcoXML) - Unofficial Fork of "Iris", made to work with FML
+- [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) - A library mod
+- [Prism](https://modrinth.com/mod/1OE8wbN0) - A library all about color! Provides lots of color-related functionality for dependent mods.
+- [ProbeJS](https://modrinth.com/mod/JJNYRb4B) - Supercharging your modpack experience.
+- [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) - Why's it called Puzzles you ask? That's the puzzle!
+- [Quark](https://modrinth.com/mod/qnQsVE2z) - A Quark is a very small thing. This mod is a collection of small things...
+- [Rechiseled](https://modrinth.com/mod/B0g2vT6l) - Rechiseled allows you to chisel blocks into various decorative blocks with connected textures!
+- [Rechiseled: Create](https://modrinth.com/mod/E6867niZ) - Rechiseled: Create adds new decorative variants of blocks in Create!
+- [Refined Storage](https://modrinth.com/mod/KDvYkUg3) - An elegant solution to your hoarding problem.
+- [Refined Storage Addons](https://modrinth.com/mod/Z4Z5ccuT) - An addon mod for Refined Storage.
+- [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) - Resourceful Lib
+- [Rhino](https://modrinth.com/mod/sk9knFPE) - A fork of Mozilla's Rhino library, modified for use in mods
+- [Searchables](https://modrinth.com/mod/fuuu3xnx) - Searchables is a library mod that adds helper methods that allow for searching and filtering elements based on components, as well as offering built in auto-complete functionality.
+- [Sinytra Connector](https://modrinth.com/mod/u58R1TMW) - The Fabric Compatibility Layer for Minecraft Forge
+- [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) - Yet another backpack mod this time with backpack you can place in world, color in different color combinations, upgrade with more inventory and enhance with many functional upgrades
+- [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core) - Library mod for Sophisticated mods
+- [Sophisticated Storage](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage) - Storage mod with multiple tiers and functional upgrades
+- [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) - A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.
+- [spark](https://modrinth.com/mod/l6YH9Als) - spark is a performance profiler for Minecraft clients, servers and proxies.
+- [SuperMartijn642's Config Lib](https://modrinth.com/mod/LN9BxssP) - Config Lib makes dealing with config files just a bit easier.
+- [SuperMartijn642's Core Lib](https://modrinth.com/mod/rOUBggPv) - SuperMartijn642's Core Lib adds lots of basic implementations that allow for similar code between different Minecraft versions!
+- [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) - Vanilla+ additions: Jars, signposts, faucets, weather vanes spring launchers, sconces, planters, lights, decoration and automation
+- [TerraBlender](https://modrinth.com/mod/kkmrDlKT) - A library mod for adding biomes in a simple and compatible manner!
+- [Terralith](https://modrinth.com/mod/8oi3bsk5) - Terralith takes Minecraft's 1.18 massive world generation overhaul, and turns it up to eleven.
+- [TexTrue's Embeddium Options](https://modrinth.com/mod/S1tndFDa) - Unofficial port of Reese's Sodium Options to work with Embeddium on MinecraftForge/NeoForge. Alternative Options Menu for Embeddium.
+- [Time in a bottle [FORGE]](https://www.curseforge.com/minecraft/mc-mods/time-in-a-bottle-forge) - A fork of Time in a bottle standalone
+- [Time in a bottle Curio Support](https://www.curseforge.com/minecraft/mc-mods/time-in-a-bottle-curio-support) - Makes it so you can use Time in a bottle in a curio slot!
+- [TorchMaster](https://modrinth.com/mod/Tl8ESrhX) - Control Mob Spawning with simple to use Blocks like the Mega Torch or the Dread Lamp
+- [Towns and Towers](https://modrinth.com/mod/DjLobEOy) - Spice up your world with new villages, pillager outposts, and even new ships!
+- [Valhelsia Core](https://modrinth.com/mod/HsdNFinx) - API for the Valhelsia mods and friends.
+- [Valhelsia Furniture](https://modrinth.com/mod/qmCh2PxS) - Decorate your home better with furniture!
+- [Valhelsia Structures](https://modrinth.com/mod/T21szC0a) - Adds new structures and dungeons to your world while being properly integrated.
+- [WI Zoom](https://modrinth.com/mod/o7DitHWP) - WI Zoom is a Minecraft mod offering up to 50x zoom with smooth camera movement. Supports Fabric, NeoForge, and snapshots. Also works with OptiFine and Sodium.
+- [YUNG's API](https://modrinth.com/mod/Ua7DFN59) - Library mod for YUNG's mods.
+- [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv) - A complete redesign of Minecraft's desert temples!
+- [YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5) - A complete redesign of Minecraft's dungeons!
+- [YUNG's Better Jungle Temples](https://modrinth.com/mod/z9Ve58Ih) - A complete redesign of Minecraft's jungle temples!
+- [YUNG's Better Mineshafts](https://modrinth.com/mod/HjmxVlSr) - A long-awaited and much-needed abandoned mineshaft overhaul!
+- [YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP) - A complete redesign of Minecraft's Nether fortresses!
+- [YUNG's Better Ocean Monuments](https://modrinth.com/mod/3dT9sgt4) - A complete redesign of Minecraft's ocean monuments!
+- [YUNG's Better Strongholds](https://modrinth.com/mod/kidLKymU) - A complete redesign of Minecraft's strongholds!
+- [YUNG's Better Witch Huts](https://modrinth.com/mod/t5FRdP87) - Adds overhauled witch huts to swamps!
+- [YUNG's Bridges](https://modrinth.com/mod/Ht4BfYp6) - Adds beautiful naturally generated bridges throughout the world!
+- [YUNG's Extras](https://modrinth.com/mod/ZYgyPyfq) - Extra structures, features, and vanilla+ content suitable for any modpack!
+- [Zeta](https://modrinth.com/mod/MVARlG2f) - Comprehensive Load-Bearing Library for Modular Mods
